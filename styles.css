@@ -1,1 +1,18 @@
 /* your code here */
+.product{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.photo-main > img{
+	width:200px;
+	height:200px;
+	background-color:#5ee03b;
+}
+.photo-album > ul > li > img{
+	padding:10px;
+	height:10px;
+	width:10px;
+    background-color:#EBF2EE;
+}
+.product__info{
+	background-color:skyblue
+}
